@@ -1,0 +1,12 @@
+Package: foldersetup
+Type: Package
+Title: Compiling Scripts for Improving Reproducible Research
+Version: 0.1.0
+Author: Samuel Ash
+Maintainer: Samuel Ash <syash@bwh.harvard.edu>
+Description: This is a longer description of what the package can do, possibly in a few lines.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Imports: here
